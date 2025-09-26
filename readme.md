@@ -141,19 +141,19 @@ PNG export with metadata preservation and custom filename prefix.
 
 ## Key Features
 
-### 🎯 **Tri-Modal Conditioning**
+###  **Tri-Modal Conditioning**
 Simultaneous text, pose, and face guidance for precise control over generation.
 
-### 🔄 **Staged Resolution Enhancement**
+###  **Staged Resolution Enhancement**
 Multi-step upscaling prevents artifacts while maintaining coherence.
 
-### 🧩 **Modular Prompt Architecture**
+###  **Modular Prompt Architecture**
 Hierarchical prompting allows easy modification without breaking the pipeline.
 
-### ⚡ **Optimized Performance**
+###  **Optimized Performance**
 Balanced settings for quality vs. generation time.
 
-### 🎨 **Production Ready**
+###  **Production Ready**
 Consistent results suitable for professional workflows.
 
 ## Usage Instructions
@@ -301,7 +301,7 @@ This workflow is released under the **MIT License**. Free to use, modify, and di
 ## Credits
 
 - **Workflow Design**: scabnx(me)
-- **Base Models**: Various open-source contributors
+- **Base Models**: CyberDelia AI Lab
 - **ComfyUI**: ComfyAnonymous and community
 - **ControlNet**: lllyasviel
 - **IPAdapter**: tencent-ailab, h94
