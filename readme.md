@@ -161,9 +161,9 @@ Consistent results suitable for professional workflows.
 ### 1. Setup
 ```bash
 # Install required ComfyUI custom nodes
-pip install comfyui-controlnet-aux
-pip install comfyui-ipadapter-plus
-pip install comfyui-essentials
+comfyui-controlnet-aux
+comfyui-ipadapter-plus
+comfyui-essentials
 ```
 
 ### 2. Model Installation
